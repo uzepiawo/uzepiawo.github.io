@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzepiawo.github.io/DoN/sitemap_index.txt
+Sitemap: https://uzepiawo.github.io/Utf/sitemap_index.txt
+Sitemap: https://uzepiawo.github.io/sFl/sitemap_index.txt
+Sitemap: https://uzepiawo.github.io/xne/sitemap_index.txt
